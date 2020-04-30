@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ec6260cb-67e5-42b8-bdd5-b7653d5bd1d9/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/current-trends-demo",
+    "appService.deploySubpath": "publish"
+}
